@@ -1,0 +1,74 @@
+{
+    "name": "Cars.com",
+    "description": "Research and compare cars, find local dealers\/sellers, calculate loan payments, find your car???s value, sell or trade your car, get a service estimate, and much more on Cars.com.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28274-developer-cars-com.jpg",
+    "tags": [
+        "api provider",
+        "automobiles",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cars-com\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cars.com",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28274-developer-cars-com.jpg",
+            "humanURL": "http:\/\/developer.cars.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cars-com-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cars-com"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.cars.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "NationalSales@cars.com"
+        },
+        {
+            "type": "Email",
+            "url": "PR@cars.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@cars.com"
+        },
+        {
+            "type": "Email",
+            "url": "editor@cars.com"
+        },
+        {
+            "type": "Email",
+            "url": "legal@cars.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/carsdotcom"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/developer.cars.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.cars.com"
+        }
+    ]
+}
